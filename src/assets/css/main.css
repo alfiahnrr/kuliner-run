@@ -1,0 +1,21 @@
+#app {
+    font-family: 'Poppins', sans-serif;
+}
+
+.router-link-exact-active {
+    font-weight: bold;
+}
+
+.card-product {
+    border-radius: 20px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb-item.active {
+    font-weight: bolder;
+    color: black;
+}
